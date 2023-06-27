@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+body {
+  margin: 0;
+  font-family: 'Poppins';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(0,254,255);
+background: linear-gradient(90deg, rgb(204, 204, 204) 0%, rgb(255, 255, 255) 60%, rgb(182, 182, 182) 100%);
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.header-text{
+  font-size: 2em;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
